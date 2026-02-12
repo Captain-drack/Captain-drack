@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,9,5&height=250&section=header&text=Akshat%20Austin&fontSize=70&fontAlignY=40&animation=fadeIn&fontColor=ffffff&desc=Full%20Stack%20Developer%20%7C%205%2B%20Years%20of%20Experience&descSize=20&descAlignY=62" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,9,5&height=220&section=header&text=Akshat%20Austin&fontSize=70&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=Full%20Stack%20Developer%20%7C%205%2B%20Years%20of%20Experience&descSize=18&descAlignY=58" width="100%"/>
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
@@ -167,12 +167,12 @@ Personal portfolio with modern UI/UX, smooth animations, and professional design
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Captain-drack&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&icon_color=8B5CF6&title_color=8B5CF6&text_color=c9d1d9&include_all_commits=true&count_private=true" />
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Captain-drack&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&icon_color=8B5CF6&title_color=8B5CF6&text_color=c9d1d9&include_all_commits=true&count_private=true" />
 <img width="49%" src="https://streak-stats.demolab.com?user=Captain-drack&theme=radical&hide_border=true&background=0D1117&ring=8B5CF6&fire=EF4444&currStreakLabel=8B5CF6&sideLabels=c9d1d9&dates=555555" />
 
 <br/>
 
-<img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Captain-drack&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=8B5CF6&text_color=c9d1d9&langs_count=8" />
+<img width="38%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Captain-drack&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=8B5CF6&text_color=c9d1d9&langs_count=8" />
 
 </div>
 
@@ -187,7 +187,7 @@ Personal portfolio with modern UI/UX, smooth animations, and professional design
 ## 🏆 Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Captain-drack&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=10" width="90%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Captain-drack&theme=algolia&no-frame=true&no-bg=false&column=4&margin-w=15&margin-h=15" width="80%"/>
 </div>
 
 ---
